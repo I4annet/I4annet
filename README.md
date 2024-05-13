@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Namaku : Ivan, sudah gitu saja
+# Namaku Ivan, sudah gitu saja
 
 # Terima Kasih
 <!--
