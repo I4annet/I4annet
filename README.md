@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# Namaku : Ivan, sudah gitu saja
+
+# Terima Kasih
 <!--
 **I4annet/I4annet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
