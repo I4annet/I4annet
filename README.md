@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![] https://github.com/I4annet/I4annet/blob/main/asset/hi.gif
+
 # Namaku Ivan, sudah gitu saja
 
 # Terima Kasih
