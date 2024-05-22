@@ -8,7 +8,7 @@
 </div>
 
 ### <b> Connect with me : </b>
-[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://www.instagram.com/ivansyaheka_41/,https://github.com/I4annet)
+[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://www.instagram.com/ivansyaheka_41/)
 
 ### Languange and tools :
 [![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark)](https://skillicons.dev)
