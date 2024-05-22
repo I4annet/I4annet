@@ -7,12 +7,17 @@
 
 </div>
 
-  
+### <b> Connect with me : </b>
+[![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://skillicons.dev)
+
+### Languange and tools :
+[![My Skills](https://skillicons.dev/icons?i=java,py,mysql,linux&theme=dark)](https://skillicons.dev)
+
+
 ![Ivansyah Eka Oktaviadi Santoso's github stats](https://github-readme-stats.vercel.app/api?username=I4annet&theme=dark&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=I4annet&theme=dark)
 
-# Terima Kasih
 <!--
 **I4annet/I4annet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
