@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi👋, Namaku Ivansyah Eka Oktaviadi Santoso
 
 
 <div align = "center" style = "width: 100%;">
@@ -6,8 +6,6 @@
   ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)
 
 </div>
-
-# Namaku Ivan, sudah gitu saja
 
 # Terima Kasih
 <!--
