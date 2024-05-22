@@ -7,6 +7,11 @@
 
 </div>
 
+  
+![Ivansyah Eka Oktaviadi Santoso's github stats](https://github-readme-stats.vercel.app/api?username=I4annet&theme=dark&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=I4annet&theme=dark)
+
 # Terima Kasih
 <!--
 **I4annet/I4annet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
