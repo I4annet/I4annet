@@ -1,6 +1,6 @@
 <div align = "center" style = "width: 100%;">
   
-## Hi👋, Namaku Ivansyah Eka Oktaviadi Santoso
+## Hi👋, My name is Ivansyah Eka Oktaviadi Santoso
 
 </div>
 
