@@ -1,5 +1,8 @@
+<div align = "center" style = "width: 100%;">
+  
 ## Hi👋, Namaku Ivansyah Eka Oktaviadi Santoso
 
+</div>
 
 <div align = "center" style = "width: 100%;">
   
