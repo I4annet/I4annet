@@ -6,7 +6,7 @@
 
 <div align = "center" style = "width: 100%;">
   
-  ![](https://github.com/I4annet/I4annet/blob/main/asset/dance%20spongebob.gif)
+  ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)
 </div>
 
 ### <b> Connect with me : </b>
