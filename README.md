@@ -5,7 +5,7 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img alt="my stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=I4annet&theme=dark"/>
-    <img alt="top langs" width="48%" src="https://streak-stats.demolab.com/?user=I4annet&theme=dark"/>
+    <img alt="top langs" width="51%" height="30%"src="https://streak-stats.demolab.com/?user=I4annet&theme=dark"/>
 </div>
 
 
