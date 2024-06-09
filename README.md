@@ -9,11 +9,11 @@
 </div>
 
 
-<div align = "center" style = "width: 100%;">
+<!--<div align = "center" style = "width: 100%;">
   
   ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)
 </div>
-
+-->
 ### <b> Connect with me : </b>
 [![My Skills](https://skillicons.dev/icons?i=instagram,github&perline=3)](https://www.instagram.com/ivansyaheka_41/)
 
