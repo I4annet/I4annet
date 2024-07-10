@@ -1,6 +1,8 @@
 <div align = "center" style = "width: 100%;">
-  
+
+# <i> Welcome to my github profile </i>
 ## Hi👋, My name is Ivansyah Eka Oktaviadi Santoso
+
 
 </div>
 <div style="display: flex; justify-content: space-between;">
