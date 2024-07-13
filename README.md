@@ -10,17 +10,17 @@
     <img alt="top langs" width="51%" height="30%"src="https://streak-stats.demolab.com/?user=I4annet&theme=dark"/>
 </div>
 
-<div align="center">
+<!---<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">    UNTUK STATUS BAHASA PEMROGRAMAN YANG SERING DIGUNAKAN
   </a>
-</div>
+</div> --!>
 
 
 
 <!--<div align = "center" style = "width: 100%;">
   
-  ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)
+  ![](https://github.com/I4annet/I4annet/blob/main/asset/hi.gif)    GIF HI PATRICK
 </div>
 -->
 ### <b> Connect with me : </b>
