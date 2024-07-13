@@ -10,6 +10,13 @@
     <img alt="top langs" width="51%" height="30%"src="https://streak-stats.demolab.com/?user=I4annet&theme=dark"/>
 </div>
 
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">
+  </a>
+</div>
+
+
 
 <!--<div align = "center" style = "width: 100%;">
   
