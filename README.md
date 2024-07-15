@@ -29,7 +29,7 @@
     
   [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/ivansyaheka_41/)
   [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/I4annet)
-  [![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/vans_6714)
 </div>
 
 ### Language and Tools:
