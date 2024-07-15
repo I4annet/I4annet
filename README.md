@@ -29,16 +29,21 @@
     
   [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/ivansyaheka_41/)
   [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/I4annet)
+  [![Discord](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
 </div>
 
 ### Language and Tools:
 
 <div align="left">
     
-  [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://www.java.com/)
-  [![Python](https://skillicons.dev/icons?i=py&theme=dark)](https://www.python.org/)
-  [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://www.mysql.com/)
-  [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://www.kernel.org/)
+  [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+  [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+  [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+  [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+  [![Css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+  [![VsCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  
 </div>
 
 
