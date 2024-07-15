@@ -40,9 +40,9 @@
   [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
   [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
   [![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
-  [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  [![Css](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-  [![VsCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+  [![HTML](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/html_intro.asp)
+  [![Css](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/Css/)
+  [![VsCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
   
 </div>
 
