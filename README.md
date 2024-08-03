@@ -24,7 +24,7 @@
 </div>
 -->
 ### <b> Connect with me : </b>
-<div align="left">
+<div align="center">
   <!-- Social Media Icons -->
     
   [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/ivansyaheka_41/)
@@ -34,7 +34,7 @@
 
 ### Language and Tools:
 
-<div align="left">
+<div align="center">
     
   [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
   [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
