@@ -7,14 +7,12 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img alt="my stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=I4annet&theme=dark"/>
-    <img alt="top langs" width="51%" height="30%"src="https://streak-stats.demolab.com/?user=I4annet&theme=dark"/>
+    <img ![] src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&theme=tokyonight"/>
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">   
+  </a> -->
 </div>
 
-<!---<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">    UNTUK STATUS BAHASA PEMROGRAMAN YANG SERING DIGUNAKAN
-  </a>
-</div> --!>
 
 
 
