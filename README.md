@@ -7,7 +7,7 @@
 </div>
 <div style="display: flex; justify-content: space-between;">
     <img alt="my stats" width="48%" src="https://github-readme-stats.vercel.app/api?username=I4annet&theme=dark"/>
-    <img ![] src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&theme=tokyonight"/>
+<!--     <img ![] src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&theme=tokyonight"/> -->
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=donut" alt="Top Langs">   
   </a> -->
