@@ -42,7 +42,7 @@
   
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I4annet&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=I4annet&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **I4annet/I4annet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
