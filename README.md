@@ -81,6 +81,12 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
   </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40"/>
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="40" height="40"/>
+  </a>
 </p>
 
 <hr />
@@ -93,11 +99,6 @@
       <img src="./asset/Spongebob thinking.gif" alt="Thinking SpongeBob" width="100" />
       <br/>
       <sub><i>Analyzing stats...</i></sub>
-    </td>
-    <td align="center" width="80%">
-      <img alt="Ivansyah's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=I4annet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-      &nbsp;
-      <img alt="Ivansyah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=I4annet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
     </td>
   </tr>
   <tr>
@@ -112,6 +113,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
+  <a href="mailto:ivansyahsantoso@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.instagram.com/ivansyaheka_41/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40"/>
   </a>&nbsp;
@@ -129,5 +133,7 @@
   <img src="./asset/iam finished.gif" alt="I'm Finished" width="150" />
   <br />
   <sub><i>"I'm finished! Thanks for visiting my profile!"</i></sub>
+  <br />
+  <sub><i>Check my portofolio : <a href="https://ivansyah.vercel.app/" target="_blank">ivansyah.vercel.app</a></i></sub>
 </div>
 
