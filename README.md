@@ -125,6 +125,9 @@
   <a href="https://www.discord.com/vans_6714" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40"/>
   </a>
+  <a href="https://www.linkedin.com/in/ivansyah-eka-oktaviadi-santoso/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="40" height="40"/>
+  </a>
 </p>
 
 <hr />
