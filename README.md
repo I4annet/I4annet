@@ -12,8 +12,8 @@
       <h3>💫 About Me</h3>
       <p>I am a passionate software enthusiast and student from Indonesia. I enjoy learning new technologies, writing scripts to automate tasks, and building clean, efficient databases.</p>
       <ul>
-        <li>🌱 I'm currently expanding my skills in <b>Java</b> and <b>Python</b>.</li>
-        <li>🎓 I enjoy exploring <b>Linux systems</b> and working with <b>databases</b>.</li>
+        <li>🌱 I'm currently expanding my skills in Web Development <b>Next JS, Tailwind CSS, Laravel and TypeScript</b>.</li>
+        <li>🎓 I enjoy exploring <b>Linux systems</b> and working with <b>PostgreSQL and MySQL</b> and sometimes i set up with <b>Firebase and Supabase </b>.</li>
         <li>👯 I'm always open to collaborating on open-source projects or interesting web ideas.</li>
       </ul>
     </td>
@@ -25,7 +25,7 @@
 
 <hr />
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages Program
 
 <p align="left">
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
@@ -37,6 +37,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   </a>&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
   </a>&nbsp;
@@ -46,8 +52,34 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
   </a>&nbsp;
+</p>
+
+<hr />
+
+### Tools Program
+  <a href="https://www.firebase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="40" height="40"/>
+  </a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tailwindcss" alt="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
   </a>
 </p>
 
