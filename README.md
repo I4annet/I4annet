@@ -93,17 +93,31 @@
 
 ### 📊 GitHub Stats
 
-<table border="0" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" valign="middle" width="20%">
+    <td align="center">
       <img src="./asset/Spongebob thinking.gif" alt="Thinking SpongeBob" width="100" />
       <br/>
       <sub><i>Analyzing stats...</i></sub>
     </td>
   </tr>
+
   <tr>
-    <td colspan="2" align="center">
-      <img alt="Ivansyah's GitHub Streak" src="https://streak-stats.demolab.com/?user=I4annet&theme=tokyonight&hide_border=true&background=0d1117" width="100%" />
+    <td align="center">
+      <img
+        alt="Ivansyah's GitHub Streak"
+        src="https://streak-stats.demolab.com/?user=I4annet&theme=tokyonight&hide_border=true&background=0d1117"
+        width="100%"
+      />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=I4annet&theme=tokyo-night&hide_border=true&bg_color=0d0d17&color=A78BFA&line=8B5CF6&point=E6E6FA"
+        width="100%"
+      />
     </td>
   </tr>
 </table>
