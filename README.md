@@ -101,17 +101,7 @@
       <sub><i>Analyzing stats...</i></sub>
     </td>
   </tr>
-
-  <tr>
-    <td align="center">
-      <img
-        alt="Ivansyah's GitHub Streak"
-        src="https://streak-stats.demolab.com/?user=I4annet&theme=tokyonight&hide_border=true&background=0d1117"
-        width="100%"
-      />
-    </td>
-  </tr>
-
+  
   <tr>
     <td align="center">
       <img
